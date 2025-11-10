@@ -1,0 +1,11 @@
+# MongoDB data directories
+config1/
+config2/
+config3/
+shard1-1/
+shard1-2/
+shard2-1/
+shard2-2/
+
+# Log files
+*.log
